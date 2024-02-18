@@ -1,11 +1,14 @@
+
 * {
     border: red 1px solid;
 }
+
 
 body {
     display: flex;
     flex-direction: column;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0p;
 }
 
 /* Nav-Bar CSS */
@@ -14,6 +17,11 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    margin: none;
 }
 
 
@@ -22,9 +30,49 @@ body {
     padding: 0px 50px 0px 50px;
 }
 
+.nav-placeholder {
+    height: 76px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: auto;
+    display: block;
+}
+
 .right-nav {
     display: flex;
     text-align: center;
     align-items: center;
     gap: 100px;
+    padding: 0px 50px 0px 50px;
+}
+
+.right-nav a {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.right-nav button {
+    color: #89FAFC;
+    background-color: rgba(24,59,84,1);
+    border-radius: 100px;
+    width: 165px;
+    height: 44px;
+    border: none;
+    font-weight: bold;
+}
+
+.announcement-bar {
+    display: block;
+    margin-top: 76px;
+    text-align: center;
+    font-size: 15px;
+    color: lightgray;
+    background-color: rgba(119,19,63,1);
+}
+
+.announcement-bar a {
+    color: gray;
 }
