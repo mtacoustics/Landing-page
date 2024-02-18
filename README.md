@@ -29,3 +29,12 @@ I have not touched HTML, CSS, or Javascript since starting my CS degree.
 
 # challenges
 Will up date this as I am working to ensure that I am targeting my weaknesses.
+
+
+# TODO
+- finish styling for header-text container. This is over the header img
+- Fix the image scaling issues on wider screens
+- Go in and fix logo in nav-bar
+- find a logo for nav-bar
+
+Tomorrow after fixing the above will start working on the next container.
