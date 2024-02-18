@@ -1,0 +1,30 @@
+* {
+    border: red 1px solid;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Nav-Bar CSS */
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.logo {
+    padding: 0px 50px 0px 50px;
+}
+
+.right-nav {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 100px;
+}
