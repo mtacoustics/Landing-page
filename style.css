@@ -9,6 +9,7 @@ body {
     flex-direction: column;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0px;
+    padding: 0px;
 }
 
 /* Nav-Bar CSS */
@@ -22,6 +23,7 @@ body {
     top: 0;
     z-index: 999;
     margin: none;
+    height: 76px;
 }
 
 
@@ -75,4 +77,10 @@ body {
 
 .announcement-bar a {
     color: gray;
+}
+
+.header img{
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
 }
