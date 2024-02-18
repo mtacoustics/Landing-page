@@ -19,6 +19,7 @@ https://welcome.zola.com
 
 # Timeline
 As this is a refresher I aim to spend less than 24 hours on it.
+UPDATE: spent around 2 hours on it tonight. May have been a bit ambitious with my time-line. No set time aiming to finish. Just a strong project is the goal.
 
 # The big why?
 I have not touched HTML, CSS, or Javascript since starting my CS degree.
