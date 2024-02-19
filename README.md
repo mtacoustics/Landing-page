@@ -30,12 +30,18 @@ I have not touched HTML, CSS, or Javascript since starting my CS degree.
 
 # challenges
 Will up date this as I am working to ensure that I am targeting my weaknesses.
+As of now the only thing I had to really refresh is fixed positioning for the nav-bar, and the location of the header text over the img. Quick google search lead me down the right path.
 
 
 # TODO
-- finish styling for header-text container. This is over the header img
 - Fix the image scaling issues on wider screens
 - Go in and fix logo in nav-bar
 - find a logo for nav-bar
+- Find img for last tile "invites and paper"  and link it to html. styling is done already just hit cap on free downloads.
+- begin planning for next container which is nothing more than the tiles more explained. alternating sides for img.
+- begin planning for contact us portion.
+- begin planing for FAQ section
 
-Tomorrow after fixing the above will start working on the next container.
+
+Will begin working on at school in my downtime tomorrow.
+
