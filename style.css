@@ -144,6 +144,9 @@ body {
     height: 390px;
     flex-direction: row;
     justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .website {
@@ -153,8 +156,9 @@ body {
     justify-content: center;
     width: 320px;
     height: 390px;
-    border: 1px black solid;
-    
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: gray 3px 3px;
 }
 
 .website img {
@@ -170,7 +174,9 @@ body {
     justify-content: center;
     width: 320px;
     height: 390px;
-    border: 1px black solid;
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: gray 3px 3px;
 }
 
 .registry img {
@@ -187,7 +193,9 @@ body {
     justify-content: center;
     width: 320px;
     height: 390px;
-    border: 1px black solid;
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: gray 3px 3px;
 }
 
 .venues-vendors img {
@@ -195,6 +203,7 @@ body {
     height: 200px;
     border-radius: 25px;
     object-fit: cover;
+    
 }
 
 .invites {
@@ -204,5 +213,7 @@ body {
     justify-content: center;
     width: 320px;
     height: 390px;
-    border: 1px black solid;
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: gray 3px 3px;
 }
