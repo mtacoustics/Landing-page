@@ -31,6 +31,7 @@ I have not touched HTML, CSS, or Javascript since starting my CS degree.
 # challenges
 Will up date this as I am working to ensure that I am targeting my weaknesses.
 As of now the only thing I had to really refresh is fixed positioning for the nav-bar, and the location of the header text over the img. Quick google search lead me down the right path.
+- Redesign tiles below header. They seem a little off looking on the websit I am mimicking. Believe I can design them better.
 
 
 # TODO
